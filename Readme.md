@@ -1,6 +1,5 @@
 # Silence Of Words
-![Screenshot of Calibre Theme]
-(https://github.com/CoffeeQuotes/Calibre-themes-files/blob/master/screenshot.png)
+![Image of Yaktocat](Screenshot.png)
 
 A Dark Theme for a Calibre Reader.
 
