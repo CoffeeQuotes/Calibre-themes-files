@@ -1,5 +1,5 @@
 # Silence Of Words
-![Image of Yaktocat](Screenshot.png)
+![Image of Yaktocat](screenshot.png)
 
 A Dark Theme for a Calibre Reader.
 
