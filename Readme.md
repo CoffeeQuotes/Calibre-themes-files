@@ -1,6 +1,6 @@
 # Silence Of Words
 ![Screenshot]
-(screenshot.png)
+(https://github.com/CoffeeQuotes/Calibre-themes-files/blob/master/screenshot.png)
 
 A Dark Theme for a Calibre Reader.
 
