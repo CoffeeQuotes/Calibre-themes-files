@@ -25,7 +25,7 @@ audio:not([controls]) {
   display: none;
 }
 html {
-  font-family:  'Goudy Bookletter 1911', serif;;
+  font-family:  'Goudy Bookletter 1911', serif;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
@@ -156,7 +156,7 @@ table {
   border-spacing: 0;
 }
 html {
- font-family: 'Goudy Bookletter 1911', serif;
+  font-family: 'Goudy Bookletter 1911', serif;
 }
 pre,
 code {
@@ -172,8 +172,8 @@ h6 {
   font-weight: 700;
 }
 html {
- background-color:  #333538;//#4b4842; #6a4538;
- color: #92979f;
+  background-color: #333538; /*#4b4842; #6a4538;*/
+  color: #92979f;
   margin: 1em;
 }
 body {
@@ -182,7 +182,7 @@ body {
   max-width: 23cm;
   border: 2pt dashed #27323c;
   box-shadow: 0 0 20px #000;
-  padding: 1em;
+  padding: 2em !important;
 }
 code {
   background-color: #d39151;
