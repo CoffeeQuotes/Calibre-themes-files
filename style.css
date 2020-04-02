@@ -179,7 +179,7 @@ html {
 body {
   background-color: #27323c;
   margin: 0 auto;
-  max-width: 23cm;
+  /*max-width: 23cm;*/
   border: 2pt dashed #27323c;
   box-shadow: 0 0 20px #000;
   padding: 2em !important;
